@@ -1,6 +1,6 @@
 ---
 name: Submit a product
-about: Submit a new product or service
+about: Submit a new swadeshi product or service
 title: ''
 labels: ''
 assignees: ''
