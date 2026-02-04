@@ -26,5 +26,7 @@ Adopting a `#VocalForLocal` approach is a direct investment in India's future. E
 
 - [Explore all retail products](https://makeforindia.com/retail-products/)
 - [Explore all digital products](https://makeforindia.com/digital-products/)
+- [Swadeshi Companies](https://makeforindia.com/companies/)
+- [Swadeshi Magazine](https://makeforindia.com/magazine/)
+- [Make for India Manifesto](https://makeforindia.com/manifesto/)
 - [Submit a new product](https://github.com/planetabhi/makeforindia.com/issues/new/choose)
-- [Questions, feedback, & general convos](https://github.com/planetabhi/makeforindia.com/discussions)
