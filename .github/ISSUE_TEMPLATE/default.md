@@ -1,29 +1,32 @@
 ---
 name: Submit a product
-about: Submit a new swadeshi product or service
+about: Submit a new swadeshi product
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Product name:**  
-<!-- Enter the official product name -->
-
-**Website:**  
-<!-- Enter the full URL including https:// -->
-
-**Description:**  
-<!-- Brief 1-2 sentence description of what this product does -->
-
-**Company name:**  
-<!-- Optional: Legal company name -->
-
-**Location:**  
-<!-- Optional: City -->
-
-**Alternative to:**  
-<!-- Optional: List competing products, one per line -->
-- 
-- 
--
+```
+{
+  "name": "",
+  "slug": "",
+  "description": "",
+  "website": "",
+  "category": "",
+  "purpose": [
+    ""
+  ],
+  "alternatives": [],
+  "pricing": "",
+  "company": "",
+  "location": "City, State",
+  "logo": "",
+  "platforms": [
+    "web"
+  ],
+  "features": [
+    "Feature 01"
+  ]
+}
+```
